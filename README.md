@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub flow .
+This repository is for practising the GitHub flow . I'm Matsotellow but most people call me Mellow. I'm a curious being really. I love learning stuff more than anything. One of my role models is Steve Jobs and I know he wasn't a programmer but I just love how he always had these amazing visions of what he wanted to achieve and how he could communicate them well to programmers who would bring his visions to life. 
